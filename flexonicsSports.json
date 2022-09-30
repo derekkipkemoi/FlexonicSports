@@ -3,10 +3,10 @@
        "name": "Basic Tips", "amount": "Ksh 100" , "accessDays": "7 Day Access", "odds":"5 Sure Odds Daily"
     },
     {
-        "name": "Premium Tips", "amount": "Ksh 300" , "accessDays": "7 Day Access", "odds":"10 to 20 Sure Odds Daily"
+        "name": "Standard Tips", "amount": "Ksh 300" , "accessDays": "7 Day Access", "odds":"10 to 20 Sure Odds Daily"
      },
      {
-        "name": "Golden Tips", "amount": "Ksh 500" , "accessDays": "14 Day Access", "odds":"10 to 20 Sure Odds Daily"
+        "name": "Premium Tips", "amount": "Ksh 500" , "accessDays": "14 Day Access", "odds":"10 to 20 Sure Odds Daily"
      }
 ],
 
