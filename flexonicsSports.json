@@ -16,17 +16,17 @@
  
  
  "freePredictions":[
-     "gamesList": [
+    
         {
             "fixture": "Lazio v Spezia ",
             "prediction": "Over 1.5",
             "date": "2/10/2022"
         },
-{
+        {
             "fixture": "Real Madrid – Osasuna",
             "prediction": "Home win, Over 1.5",
             "date": "2/10/2022"
-        },
+        }
  ],
 
 
