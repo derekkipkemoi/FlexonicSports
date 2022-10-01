@@ -1,5 +1,9 @@
 {"plans":[
     {
+       "name": "Free Predictions", "amount": "Ksh 0" , "accessDays": "Everyday", "odds":"5 to 15 Sure Odds Daily"
+    },
+    
+    {
        "name": "Basic Tips", "amount": "Ksh 100" , "accessDays": "7 Day Access", "odds":"5 Sure Odds Daily"
     },
     {
