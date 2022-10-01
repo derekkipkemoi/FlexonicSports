@@ -13,6 +13,21 @@
         "name": "Premium Tips", "amount": "Ksh 500" , "accessDays": "14 Day Access", "odds":"10 to 20 Sure Odds Daily"
      }
 ],
+ 
+ 
+ "freePredictions":[
+     "gamesList": [
+        {
+            "fixture": "Lazio v Spezia ",
+            "prediction": "Over 1.5",
+            "date": "2/10/2022"
+        },
+{
+            "fixture": "Real Madrid – Osasuna",
+            "prediction": "Home win, Over 1.5",
+            "date": "2/10/2022"
+        },
+ ]
 
 
 "predictionResults":[
