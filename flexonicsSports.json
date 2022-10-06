@@ -56,6 +56,130 @@
 
 "predictionResults":[
     {
+       "date": "Saturday, 1.10.2022",
+       "gamesList": [
+        {
+            "fixture": "Leipzig Vs. Bochum",
+            "prediction": "Over 2.5",
+            "odds": "1.46",
+            "results": "4-0 (WIN)"
+        },
+        {
+            "fixture": "Twente Vs Vitesse",
+            "prediction": "Over 1.5",
+            "odds": "1.34",
+            "results": "3-0 (WIN)"
+        },
+        {
+            "fixture": "Arsenal Vs. Tottenham",
+            "prediction": "Over 1.5",
+            "odds": "1.24",
+            "results": "3-1 (WIN)"
+        },
+        {
+            "fixture": "Dorking Wanderers Vs Dag & Red",
+            "prediction": "Over 2.5",
+            "odds": "1.50",
+            "results": "5-1 (WIN)"
+        },
+        {
+            "fixture": "Psg Vs Nice",
+            "prediction": "Over 2.5",
+            "odds": "1.37",
+            "results": "2-1 (WIN)"
+        },
+        {
+            "fixture": "Notts County Vs. Altrincham",
+            "prediction": "Home WIN",
+            "odds": "1.38",
+            "results": "3-1 (WIN)"
+        },
+           {
+            "fixture": "Valerenga Vs Stromsgodset",
+            "prediction": "Over 2.5",
+            "odds": "1.50",
+            "results": "4-0 (WIN)"
+        },
+        {
+            "fixture": "Al Ahli Doha Vs Qatar Sc",
+            "prediction": "Over 1.5",
+            "odds": "1.25",
+            "results": "2-1 (WIN)"
+        },
+           {
+            "fixture": "Basel Vs St. Gallen",
+            "prediction": "Over 2.5",
+            "odds": "1.48",
+            "results": "3-2 (WIN)"
+        },
+           {
+            "fixture": "Lillestrom Vs Bodo/glimt",
+            "prediction": "Over 1.5",
+            "odds": "1.22",
+            "results": "1-4 (WIN)"
+        }
+       ]
+    },
+    {
+       "date": "Friday, 30.9.2022",
+       "gamesList": [
+        {
+            "fixture": "Yverdon-sport Vs Aarau",
+            "prediction": "Over 2.5",
+            "odds": "1.53",
+            "results": "2-2 (WIN)"
+        },
+        {
+            "fixture": "Lausanne-sport Vs Fc Wil",
+            "prediction": "Over 2.5",
+            "odds": "1.52",
+            "results": "4-0 (WIN)"
+        },
+        {
+            "fixture": "Maastricht Vs Willem Ii",
+            "prediction": "Over 2.5",
+            "odds": "1.58",
+            "results": "3-2 (WIN)"
+        },
+        {
+            "fixture": "Thun Vs Neuchatel Xamax",
+            "prediction": "1 DNB",
+            "odds": "1.30",
+            "results": "2-1 (WIN)"
+        },
+        {
+            "fixture": "Almere City Vs Roda",
+            "prediction": "2 DNB",
+            "odds": "1.28",
+            "results": "1-2 (WIN)"
+        },
+        {
+            "fixture": "Ado Den Haag Vs Jong Psv",
+            "prediction": "Over 1.5",
+            "odds": "1.20",
+            "results": "1-3 (WIN)"
+        },
+           {
+            "fixture": "Wexford Vs Bray Wanderers",
+            "prediction": "Over 1.5",
+            "odds": "1.24",
+            "results": "4-2 (WIN)"
+        },
+        {
+            "fixture": "Tns Vs Newtown",
+            "prediction": "Home win & Over 1.5",
+            "odds": "1.30",
+            "results": "4-1 (WIN)"
+        },
+           {
+            "fixture": "Waterford Utd Vs Cobh Ramblers",
+            "prediction": "Home win & Over 1.5",
+            "odds": "1.30",
+            "results": "3-1 (WIN)"
+        }
+       ]
+    },
+    {
        "date": "Wednesday, 17.8.2022",
        "gamesList": [
         {
