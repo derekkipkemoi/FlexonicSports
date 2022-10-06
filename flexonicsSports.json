@@ -4,13 +4,16 @@
     },
     
     {
-       "name": "Basic Tips", "amount": "Ksh 100" , "accessDays": "Thu Oct 06 2022", "odds":"5 to 15 Sure Odds Daily"
+       "name": "Basic Tips", "amount": "Ksh 100" , "accessDays": "Thu Oct 06 2022", "odds":"Total Basic Tips = 13.95 + Odds"
     },
     {
-        "name": "Standard Tips", "amount": "Ksh 300" , "accessDays": "Thu Oct 06 2022", "odds":"15 to 25 Sure Odds Daily"
+        "name": "Standard Tips", "amount": "Ksh 300" , "accessDays": "Thu Oct 06 2022", "odds":"Total Standard Tips = 62.45 + Odds"
      },
      {
-        "name": "Premium Tips", "amount": "Ksh 500" , "accessDays": "Thu Oct 06 2022", "odds":"15 to 30 Sure Odds Daily"
+        "name": "Premium Tips", "amount": "Ksh 500" , "accessDays": "Thu Oct 06 2022", "odds":"Total Golden Tips = 185.29 + Odds"
+     },
+     {
+        "name": "Jackpot Tips", "amount": "Ksh 250" , "accessDays": "Thu Oct 06 2022", "odds":"Guaranteed Bonus on Jackpot (JP)"
      }
 ],
  
