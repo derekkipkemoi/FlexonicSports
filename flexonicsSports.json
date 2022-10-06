@@ -18,22 +18,22 @@
  "freePredictions":[
     
         {
-            "fixture": "Malmö FF – Union Berlin",
+            "fixture": "Malmö FF Vs Union Berlin",
             "prediction": "Over 1.5",
             "date": "6/10/2022"
         },
         {
-            "fixture": "Sturm Graz – Lazio",
+            "fixture": "Sturm Graz Vs Lazio",
             "prediction": "Over 1.5",
             "date": "6/10/2022"
         },
      {
-            "fixture": "Arsenal – Bodø/Glimt",
+            "fixture": "Arsenal Vs Bodø/Glimt",
             "prediction": "Home win, Over 1.5",
             "date": "6/10/2022"
         },
      {
-            "fixture": "AZ – Apollon Limassol",
+            "fixture": "AZ Vs Apollon Limassol",
             "prediction": "Over 1.5",
             "date": "6/10/2022"
         }
@@ -42,12 +42,12 @@
  "paidPredictions":[
     
         {
-            "fixture": "Lazio v Spezia ",
+            "fixture": "Lazio Vs Spezia ",
             "prediction": "Over 1.5",
             "date": "2/10/2022"
         },
         {
-            "fixture": "Real Madrid – Osasuna",
+            "fixture": "Real Madrid Vs Osasuna",
             "prediction": "Home win, Over 1.5",
             "date": "2/10/2022"
         }
