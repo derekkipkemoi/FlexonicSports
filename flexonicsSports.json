@@ -1,19 +1,19 @@
 {"plans":[
     {
-       "name": "Free Tips", "amount": "Ksh 0" , "accessDays": "Fri Oct 07 2022", "odds":"5 Odds Daily"
+       "name": "Free Tips", "amount": "Ksh 0" , "accessDays": "Sat Oct 08 2022", "odds":"5 Odds Daily"
     },
     
     {
-       "name": "Basic Tips", "amount": "Ksh 100" , "accessDays": "Fri Oct 07 2022", "odds":"Total Basic Tips = 13.95 + Odds"
+       "name": "Basic Tips", "amount": "Ksh 100" , "accessDays": "Sat Oct 08 2022", "odds":"Total Basic Tips = 13.95 + Odds"
     },
     {
-        "name": "Standard Tips", "amount": "Ksh 300" , "accessDays": "Fri Oct 07 2022", "odds":"Total Standard Tips = 62.45 + Odds"
+        "name": "Standard Tips", "amount": "Ksh 300" , "accessDays": "Sat Oct 08 2022", "odds":"Total Standard Tips = 62.45 + Odds"
      },
      {
-        "name": "Premium Tips", "amount": "Ksh 500" , "accessDays": "Fri Oct 07 2022", "odds":"Total Golden Tips = 185.29 + Odds"
+        "name": "Premium Tips", "amount": "Ksh 500" , "accessDays": "Sat Oct 08 2022", "odds":"Total Golden Tips = 185.29 + Odds"
      },
      {
-        "name": "Jackpot Tips", "amount": "Ksh 250" , "accessDays": "Fri Oct 07 2022", "odds":"Guaranteed Bonus on Jackpot (JP)"
+        "name": "Jackpot Tips", "amount": "Ksh 250" , "accessDays": "Sat Oct 08 2022", "odds":"Guaranteed Bonus on Jackpot (JP)"
      }
 ],
  
