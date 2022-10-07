@@ -19,26 +19,59 @@
  
  
  "freePredictions":[
+     {
+            "fixture": "Marseille Vs AC Ajaccio",
+            "prediction": "Home Win",
+            "date": "8/10/2022"
+        },
+        {
+            "fixture": "Reims Vs PSG",
+            "prediction": "Over 1.5, Away Win",
+            "date": "8/10/2022"
+        },
+     {
+            "fixture": "Benfica Vs Rio Ave",
+            "prediction": "Home win, Over 1.5",
+            "date": "8/10/2022"
+        },
+     {
+            "fixture": "Morecambe – Ipswich",
+            "prediction": "Away Win",
+            "date": "7/10/2022"
+        },
+     {
+            "fixture": "Barcelona Vs Celta Vigo",
+            "prediction": "Home Win",
+            "date": "8/10/2022"
+        },
+     
+     
+     
     
         {
-            "fixture": "Malmö FF Vs Union Berlin",
+            "fixture": "Heracles Vs De Graafschap",
             "prediction": "Over 1.5",
-            "date": "6/10/2022"
+            "date": "7/10/2022"
         },
         {
-            "fixture": "Sturm Graz Vs Lazio",
+            "fixture": "Fredericia Vs LFA Nykobing",
             "prediction": "Over 1.5",
-            "date": "6/10/2022"
+            "date": "7/10/2022"
         },
      {
-            "fixture": "Arsenal Vs Bodø/Glimt",
+            "fixture": "Derry City Vs Finn Harps",
             "prediction": "Home win, Over 1.5",
-            "date": "6/10/2022"
+            "date": "7/10/2022"
         },
      {
-            "fixture": "AZ Vs Apollon Limassol",
+            "fixture": "Lyon Vs Toulouse",
             "prediction": "Over 1.5",
-            "date": "6/10/2022"
+            "date": "7/10/2022"
+        },
+     {
+            "fixture": "Benfica Vs Rio Av",
+            "prediction": "Over 1.5, Home Win",
+            "date": "7/10/2022"
         }
  ],
  
