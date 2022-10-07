@@ -92,6 +92,121 @@
 
 "predictionResults":[
     {
+       "date": "Thursday, 6.10.2022",
+       "gamesList": [
+        {
+            "fixture": "Esteghlal Khuzestan VS Saipa Karaj",
+            "prediction": "Under 0.5 Goals",
+            "odds": "9.24",
+            "results": "(WIN)"
+        },
+        {
+            "fixture": "Correcaminos VS Atletico La Paz",
+            "prediction": "GG & Over 4.5 Goals ",
+            "odds": "4.29",
+            "results": "(WIN)"
+        },
+        {
+            "fixture": "El Paso Locomotive VS CS Switchbacks",
+            "prediction": "HT/FT X/2",
+            "odds": "4.36",
+            "results": "(WIN)"
+        }
+       ]
+    },
+    {
+       "date": "Wednesday, 5.10.2022",
+       "gamesList": [
+        {
+            "fixture": "Khaitan SC VS Yarmouk (KUW)",
+            "prediction": "HT CS 0-1",
+            "odds": "6.80",
+            "results": "(WIN)"
+        },
+        {
+            "fixture": "Sulaibikhat VS Shabab (KUW)",
+            "prediction": "HT Draw",
+            "odds": "2.61",
+            "results": "(WIN)"
+        },
+        {
+            "fixture": "KuPS Kuopio VS FC Haka",
+            "prediction": "Over 0.5",
+            "odds": "7.54",
+            "results": "(WIN)"
+        }
+       ]
+    },
+    {
+       "date": "Tuesday, 4.10.2022",
+       "gamesList": [
+        {
+            "fixture": "Kedah FA VS Darul Takzim",
+            "prediction": "HT/FT X/X2",
+            "odds": "6.21",
+            "results": "(WIN)"
+        },
+        {
+            "fixture": "Mil-Mugan VS Sebail I",
+            "prediction": "HT/FT 2/2",
+            "odds": "5.84",
+            "results": "(WIN)"
+        },
+        {
+            "fixture": "Hebei CFFC VS Shijiazhuang",
+            "prediction": "Over 4.5",
+            "odds": "4.29",
+            "results": "(WIN)"
+        }
+       ]
+    },
+    {
+       "date": "Monday, 3.10.2022",
+       "gamesList": [
+        {
+            "fixture": "FC Botosani VS Univ Cluj-Napoca",
+            "prediction": "HT/FT X/X ",
+            "odds": "5.39",
+            "results": "(WIN)"
+        },
+        {
+            "fixture": "PAS Giannina VS Panetolikos",
+            "prediction": "Over 4.5",
+            "odds": "4.60",
+            "results": "(WIN)"
+        },
+        {
+            "fixture": "Empoli U19 VS Roma U19",
+            "prediction": "Draw & Over 3.5",
+            "odds": "5.34",
+            "results": "(WIN)"
+        }
+       ]
+    },
+    {
+       "date": "Sunday, 2.10.2022",
+       "gamesList": [
+        {
+            "fixture": "AC Bellinzona VS FC Schaffhausen ",
+            "prediction": "HT/FT X/2",
+            "odds": "5.39",
+            "results": "(WIN)"
+        },
+        {
+            "fixture": "Brattvag IL VS Asker Fotball",
+            "prediction": "HT/FT X/1",
+            "odds": "5.50",
+            "results": "(WIN)"
+        },
+        {
+            "fixture": "Freiburg W VS SGS Essen W ",
+            "prediction": "Over 4.5 & GG",
+            "odds": "4.57",
+            "results": "(WIN)"
+        }
+       ]
+    },
+    {
        "date": "Saturday, 1.10.2022",
        "gamesList": [
         {
