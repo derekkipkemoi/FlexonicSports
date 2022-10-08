@@ -92,6 +92,29 @@
 
 "predictionResults":[
     {
+       "date": "Friday, 7.10.2022",
+       "gamesList": [
+        {
+            "fixture": "Abha Club VS Al Nassr Riyadh",
+            "prediction": "CS 0-3",
+            "odds": "12.07",
+            "results": "Odds 12.07 (WIN)"
+        },
+        {
+            "fixture": "AFA Olaine VS R鐃緒申gas FS II",
+            "prediction": "GG & Over 5.5 Goals",
+            "odds": "5.04",
+            "results": "Odds 5.04(WIN)"
+        },
+        {
+            "fixture": "FC Voluntari VS CS Mioveni",
+            "prediction": "HT/FT 1/1 ",
+            "odds": "3.19",
+            "results": "Odds 3.19(WIN)"
+        }
+       ]
+    },
+    {
        "date": "Thursday, 6.10.2022",
        "gamesList": [
         {
