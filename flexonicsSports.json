@@ -25,7 +25,7 @@
             "date": "9/10/2022"
         },
         {
-            "fixture": "Bodø/Glimt – Sandefjord",
+            "fixture": "Bodø/Glimt VS Sandefjord",
             "prediction": "Over 1.5, Home Win",
             "date": "9/10/2022"
         },
@@ -38,13 +38,7 @@
             "fixture": "Molde VS Ham-Kam",
             "prediction": "Away Win",
             "date": "9/10/2022"
-        },
-     
-     
-     
-     
-    
-        
+        }     
  ],
  
  "paidPredictions":[
@@ -548,3 +542,4 @@
 
 
 }
+
