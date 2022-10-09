@@ -1,78 +1,50 @@
 {"plans":[
     {
-       "name": "Free Tips", "amount": "Ksh 0" , "accessDays": "Sat Oct 08 2022", "odds":"5 Odds Daily"
+       "name": "Free Tips", "amount": "Ksh 0" , "accessDays": "Sun Oct 09 2022", "odds":"5 Odds Daily"
     },
     
     {
-       "name": "Basic Tips", "amount": "Ksh 100" , "accessDays": "Sat Oct 08 2022", "odds":"Total Basic Tips = 13.95 + Odds"
+       "name": "Basic Tips", "amount": "Ksh 100" , "accessDays": "Sun Oct 09 2022", "odds":"Total Basic Tips = 13.95 + Odds"
     },
     {
-        "name": "Standard Tips", "amount": "Ksh 300" , "accessDays": "Sat Oct 08 2022", "odds":"Total Standard Tips = 62.45 + Odds"
+        "name": "Standard Tips", "amount": "Ksh 300" , "accessDays": "Sun Oct 09 2022", "odds":"Total Standard Tips = 62.45 + Odds"
      },
      {
-        "name": "Premium Tips", "amount": "Ksh 500" , "accessDays": "Sat Oct 08 2022", "odds":"Total Premium Tips = 185.29 + Odds"
+        "name": "Premium Tips", "amount": "Ksh 500" , "accessDays": "Sun Oct 09 2022", "odds":"Total Premium Tips = 185.29 + Odds"
      },
      {
-        "name": "Jackpot Tips", "amount": "Ksh 250" , "accessDays": "Sat Oct 08 2022", "odds":"Guaranteed Bonus on Jackpot (JP)"
+        "name": "Jackpot Tips", "amount": "Ksh 250" , "accessDays": "Sun Oct 09 2022", "odds":"Guaranteed Bonus on Jackpot (JP)"
      }
 ],
  
  
  "freePredictions":[
      {
-            "fixture": "Marseille Vs AC Ajaccio",
+            "fixture": "Barcelona VS Celta Vigo",
             "prediction": "Home Win",
-            "date": "8/10/2022"
+            "date": "9/10/2022"
         },
         {
-            "fixture": "Reims Vs PSG",
-            "prediction": "Over 1.5, Away Win",
-            "date": "8/10/2022"
+            "fixture": "Bodø/Glimt – Sandefjord",
+            "prediction": "Over 1.5, Home Win",
+            "date": "9/10/2022"
         },
      {
-            "fixture": "Benfica Vs Rio Ave",
+            "fixture": "Roma VS Lecce",
             "prediction": "Home win, Over 1.5",
-            "date": "8/10/2022"
+            "date": "9/10/2022"
         },
      {
-            "fixture": "Morecambe – Ipswich",
+            "fixture": "Molde VS Ham-Kam",
             "prediction": "Away Win",
-            "date": "8/10/2022"
+            "date": "9/10/2022"
         },
-     {
-            "fixture": "Barcelona Vs Celta Vigo",
-            "prediction": "Home Win",
-            "date": "8/10/2022"
-        },
+     
      
      
      
     
-        {
-            "fixture": "Heracles Vs De Graafschap",
-            "prediction": "Over 1.5",
-            "date": "7/10/2022"
-        },
-        {
-            "fixture": "Fredericia Vs LFA Nykobing",
-            "prediction": "Over 1.5",
-            "date": "7/10/2022"
-        },
-     {
-            "fixture": "Derry City Vs Finn Harps",
-            "prediction": "Home win, Over 1.5",
-            "date": "7/10/2022"
-        },
-     {
-            "fixture": "Lyon Vs Toulouse",
-            "prediction": "Over 1.5",
-            "date": "7/10/2022"
-        },
-     {
-            "fixture": "Benfica Vs Rio Av",
-            "prediction": "Over 1.5, Home Win",
-            "date": "7/10/2022"
-        }
+        
  ],
  
  "paidPredictions":[
@@ -91,6 +63,29 @@
 
 
 "predictionResults":[
+    {
+       "date": "Friday, 7.10.2022",
+       "gamesList": [
+        {
+            "fixture": "Faisaly Amman VS Ramtha Club ",
+            "prediction": "HT Draw",
+            "odds": "4.96",
+            "results": "Odds 4.96 (WIN)"
+        },
+        {
+            "fixture": "Budapest Honved VS Mezokovesdi SE ",
+            "prediction": "HT Draw & Over 3.5",
+            "odds": "5.33",
+            "results": "Odds 5.33(WIN)"
+        },
+        {
+            "fixture": "Mouloudia Oujda VS Riadi Salmi",
+            "prediction": "Over 6.5 Goals",
+            "odds": "5.08",
+            "results": "Odds 5.08(WIN)"
+        }
+       ]
+    },
     {
        "date": "Friday, 7.10.2022",
        "gamesList": [
