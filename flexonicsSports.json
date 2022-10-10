@@ -12,9 +12,12 @@
      {
         "name": "Premium Tips", "amount": "Ksh 500" , "accessDays": "Mon Oct 10 2022", "odds":"Total Premium Tips = 185.29 + Odds"
      },
+    {
+        "name": "Fixed Matches", "amount": "Ksh 1000" , "accessDays": "Mon Oct 10 2022", "odds":"Get 5 Fixed Matches!!"
+     },
      {
         "name": "Jackpot Tips", "amount": "Ksh 250" , "accessDays": "Mon Oct 10 2022", "odds":"Guaranteed Bonus on Jackpot (JP)"
-     }
+     },
 ],
  
  
