@@ -58,6 +58,29 @@
 
 "predictionResults":[
     {
+       "date": "Sunday, 9.10.2022",
+       "gamesList": [
+        {
+            "fixture": "Stade Rennais VS FC Nantes",
+            "prediction": "Over 2.5 & NG",
+            "odds": "5.33",
+            "results": "Odds 5.33 (WIN)"
+        },
+        {
+            "fixture": "Kwara United VS RSB Berkane",
+            "prediction": "HT/FT 2/1",
+            "odds": "6.08",
+            "results": "Odds 6.08(WIN)"
+        },
+        {
+            "fixture": "Sloboda Uzice VS Radnicki Beograd",
+            "prediction": "Under 0.5 Goals",
+            "odds": "6.82",
+            "results": "Odds 6.82(WIN)"
+        }
+       ]
+    },
+    {
        "date": "Saturday, 8.10.2022",
        "gamesList": [
         {
