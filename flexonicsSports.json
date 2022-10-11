@@ -1,6 +1,6 @@
 {"plans":[
     {
-       "name": "Free Tips", "amount": "Ksh 0" , "accessDays": "Mon Oct 10 2022", "odds":"5 Odds Daily"
+       "name": "Free Tips", "amount": "Ksh 0" , "accessDays": "Mon Oct 10 2022", "odds":"5 Odds Daily","id":"id_free_sub"
     },
     
     {
