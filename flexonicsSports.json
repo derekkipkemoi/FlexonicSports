@@ -1,19 +1,19 @@
 {"plans":[
     {
-       "name": "Free Tips", "amount": "Ksh 0" , "accessDays": "Mon Oct 10 2022", "odds":"5 Odds Daily","id":"id_free_sub"
+       "name": "Free Tips", "amount": "Ksh 0" , "accessDays": "Mon Oct 10 2022", "odds":"5 Odds Daily","id":"id_free_sub", "length":4
     },
     
     {
-       "name": "Basic Tips", "amount": "Ksh 100" , "accessDays": "Mon Oct 10 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub"
+       "name": "Basic Tips", "amount": "Ksh 100" , "accessDays": "Mon Oct 10 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":4
     },
     {
-        "name": "Standard Tips", "amount": "Ksh 300" , "accessDays": "Mon Oct 10 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub"
+        "name": "Standard Tips", "amount": "Ksh 300" , "accessDays": "Mon Oct 10 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":4
      },
      {
-        "name": "Premium Tips", "amount": "Ksh 500" , "accessDays": "Mon Oct 10 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub"
+        "name": "Premium Tips", "amount": "Ksh 500" , "accessDays": "Mon Oct 10 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":4
      },
     {
-        "name": "Fixed Matches", "amount": "Ksh 1000" , "accessDays": "Mon Oct 10 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub"
+        "name": "Fixed Matches", "amount": "Ksh 1000" , "accessDays": "Mon Oct 10 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":4
      }
 ],
  
@@ -49,6 +49,46 @@
             "date": "2/10/2022"
         },
         {
+            "fixture": "Real Madrid Vs Osasuna",
+            "prediction": "Home win, Over 1.5",
+            "date": "2/10/2022"
+        },
+     {
+            "fixture": "Real Madrid Vs Osasuna",
+            "prediction": "Home win, Over 1.5",
+            "date": "2/10/2022"
+        },
+     {
+            "fixture": "Real Madrid Vs Osasuna",
+            "prediction": "Home win, Over 1.5",
+            "date": "2/10/2022"
+        },
+     {
+            "fixture": "Real Madrid Vs Osasuna",
+            "prediction": "Home win, Over 1.5",
+            "date": "2/10/2022"
+        },
+     {
+            "fixture": "Real Madrid Vs Osasuna",
+            "prediction": "Home win, Over 1.5",
+            "date": "2/10/2022"
+        },
+     {
+            "fixture": "Real Madrid Vs Osasuna",
+            "prediction": "Home win, Over 1.5",
+            "date": "2/10/2022"
+        },
+     {
+            "fixture": "Real Madrid Vs Osasuna",
+            "prediction": "Home win, Over 1.5",
+            "date": "2/10/2022"
+        },
+     {
+            "fixture": "Real Madrid Vs Osasuna",
+            "prediction": "Home win, Over 1.5",
+            "date": "2/10/2022"
+        },
+     {
             "fixture": "Real Madrid Vs Osasuna",
             "prediction": "Home win, Over 1.5",
             "date": "2/10/2022"
