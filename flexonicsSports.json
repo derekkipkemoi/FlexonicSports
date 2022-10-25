@@ -4,7 +4,7 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Tue Oct 25 2022", "odds":"5 Odds Daily","id":"id_free_sub", "length":10
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Tue Oct 25 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":10
        },
        
        {
@@ -24,6 +24,43 @@
     
     
    "freePredictions":[
+
+    {
+        "fixture": "Club Brugge Vs Porto",
+        "prediction": "Home Win / Draw",
+        "date": "26/10/2022"
+    },
+    {
+        "fixture": "Inter Milan Vs Viktoria Plzen",
+        "prediction": "Home Win (ht-ft)",
+        "date": "26/10/2022"
+    },
+ {
+        "fixture": "Eintracht Frankfurt Vs Marseille",
+        "prediction": "Draw (half-time)",
+        "date": "26/10/2022"
+    },
+ {
+        "fixture": "Napoli Vs Rangers",
+        "prediction": "Home Win (3 Way)",
+        "date": "26/10/2022"
+    },
+ {
+        "fixture": "Barcelona Vs Bayern Munich",
+        "prediction": "Both to score",
+        "date": "26/10/2022"
+    },
+    {
+        "fixture": "Tottenham Hotspur Vs Sporting Lisbon",
+        "prediction": "Both to score",
+        "date": "26/10/2022"
+    },
+    {
+        "fixture": "Atletico Madrid Vs Bayer 04 Leverkusen",
+        "prediction": "Under 2.5",
+        "date": "26/10/2022"
+    },
+
     {
                "fixture": "Sevilla Vs Copenhagen",
                "prediction": "Home Win",
