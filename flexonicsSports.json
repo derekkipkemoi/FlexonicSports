@@ -8,7 +8,7 @@
        },
        
        {
-          "name": "Basic Tips", "amount": "$3" , "accessDays": "Sun Oct 30 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":8
+          "name": "Basic Tips", "amount": "$3" , "accessDays": "Sun Oct 30 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":10
        },
        {
            "name": "Standard Tips", "amount": "$7" , "accessDays": "Sun Oct 30 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":14     
